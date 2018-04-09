@@ -1,0 +1,4 @@
+一个线程发送数据到输出管道，另一个线程从管道中取出数据。
+
+1、java.io.PipedInputStream,java.io.PipedOutputStream
+2、java.io.PipedReader, java.io.PipedWriter
